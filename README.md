@@ -1,2 +1,2 @@
-# Optimisation de Portefeuille Avancee
-Pour pallier les limites du modèle Moyenne-Variance (crise 2020), nous implémentons une minimisation du Kurtosis via un algorithme Sequential Convex Programming (SCP). Cette gestion des risques extrêmes est validée par comparaison avec les solveurs et une relaxation SDP.
+# Advanced Portfolio Optimization
+To address the limitations of the Mean-Variance framework (e.g., the 2020 crisis), we implement Kurtosis minimization using a Sequential Convex Programming (SCP) algorithm. This tail-risk management approach is validated through benchmark solvers and Semidefinite Programming (SDP) relaxation
